@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Update OpenVINO INT8 export (#7515)
