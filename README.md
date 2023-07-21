@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Updated SQL Query Plot Code (#8120)
