@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
