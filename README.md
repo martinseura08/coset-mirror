@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
