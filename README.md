@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+OpenVino 2024.0.0 (#8726)
