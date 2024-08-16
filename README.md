@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Update HTTP to HTTPS (#7548)
