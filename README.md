@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Update pyproject.toml and Docs (#7274)
